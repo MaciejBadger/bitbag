@@ -37,4 +37,4 @@ services:
     App\Form\Extension\ProductTypeExtension:
         class:  App\Form\Extension\ProductTypeExtension
         tags:
-            - form.type_extension
+            - name: form.type_extension
