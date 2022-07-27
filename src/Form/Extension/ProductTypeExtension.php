@@ -17,7 +17,7 @@ class ProductTypeExtension extends AbstractTypeExtension
             'choices' => [
                 'red' => 'red',
                 'blue' => 'blue',
-                'green' => 'green'
+                'green' => 'green',
             ]
         ]);
     }
